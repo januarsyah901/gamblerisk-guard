@@ -29,7 +29,9 @@ The model was trained on 1,111 player profiles (accounts with at least 10 bets) 
 | 🟡 Monitor | High stake |
 | 🔴 High | Medium target |
 | 🔴 High | High cash-out target |
-| ⚪ Review | Anomaly (Isolation Forest) or out-of-range input |
+| ⚪ Review | Anomaly flagged by Isolation Forest |
+
+Inputs outside the training range (P1–P99) trigger an extrapolation warning but still get a prediction. Accounts with fewer than 10 bets are reported as insufficient data.
 
 ## Getting started
 
@@ -56,7 +58,7 @@ models/           Trained artifacts and segment/reference metadata
 notebooks/        Model training and benchmarking
 data/             Reference profiles and demo data
 tests/            Pipeline consistency and input validation tests
-docs/             Product requirements (PRD.md)
+docs/             Product requirements (PRD.md) and development plan
 ```
 
 ## Limitations
