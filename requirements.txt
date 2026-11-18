@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas>=2.2
+numpy>=1.26
+plotly>=5.24
+joblib>=1.4
+# Pin to the exact version used when the .pkl artifacts were exported (sklearn.__version__ in Colab)
+scikit-learn
+pytest>=8.0
