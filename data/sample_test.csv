@@ -1,0 +1,16 @@
+account_id,total_bets,avg_bet,win_rate,avg_cashout,total_profit,expected_scenario
+ACC_SMP_001,22,40.0,0.82,1.18,35.2,"Low Risk (Target Rendah, Win Rate Tinggi)"
+ACC_SMP_002,15,50.0,0.78,1.2,28.0,Low Risk (Konsisten Menang)
+ACC_SMP_003,140,32.0,0.7,1.35,120.5,"Perlu Dipantau (Frekuensi Tinggi, Target Rendah)"
+ACC_SMP_004,210,25.0,0.66,1.38,-50.0,Perlu Dipantau (Sangat Sering Bermain)
+ACC_SMP_005,25,3200.0,0.62,1.45,4200.0,Perlu Dipantau (Taruhan Nominal Tinggi / High Stake)
+ACC_SMP_006,18,5500.0,0.58,1.52,-1200.0,Perlu Dipantau (Eksposur Modal Besar)
+ACC_SMP_007,18,95.0,0.31,2.35,-480.0,"Tinggi (Target Menengah, Negatif ROI)"
+ACC_SMP_008,24,80.0,0.35,2.2,-360.0,Tinggi (Target Menengah)
+ACC_SMP_009,40,110.0,0.12,9.8,-1050.0,"Tinggi (Target Cashout Tinggi, Low Win Rate)"
+ACC_SMP_010,55,130.0,0.15,8.5,-1200.0,Tinggi (Chasing High Multiplier)
+ACC_SMP_011,28,120.0,0.5,1.8,-80.0,Zona Perbatasan (Transisi Antar Klaster)
+ACC_SMP_012,800,15000.0,0.05,45.0,-500000.0,Anomali (Ekstrem Stake & High Cashout Outlier)
+ACC_SMP_013,500,1.0,0.99,1.01,5.0,Anomali (Micro-betting Bot Pattern)
+ACC_SMP_014,4,50.0,0.5,1.5,0.0,Data Belum Cukup (< 10 bets)
+ACC_SMP_015,1,100.0,1.0,2.0,100.0,Data Belum Cukup (Single bet)

@@ -1,0 +1,1112 @@
+account_id,total_bets,avg_bet,win_rate,avg_cashout,total_profit,segment,risk_level
+ACC_REF_0001,21,49.38,0.871,1.31,142.34,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0002,16,61.99,0.866,1.21,27.42,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0003,22,57.08,0.887,1.19,41.67,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0004,31,29.61,0.683,1.28,114.08,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0005,15,33.42,0.595,1.31,115.63,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0006,15,60.19,0.888,1.13,53.61,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0007,32,56.59,0.759,1.17,363.2,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0008,23,42.6,0.74,1.19,24.19,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0009,14,45.33,0.883,1.17,76.25,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0010,21,76.41,0.78,1.36,211.96,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0011,14,32.95,0.728,1.21,5.17,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0012,14,55.0,0.833,1.14,-12.14,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0013,19,39.26,0.889,1.23,101.17,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0014,10,38.99,0.858,1.21,0.58,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0015,10,70.5,0.898,1.21,-19.42,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0016,14,62.34,0.687,1.36,-9.35,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0017,11,62.01,0.794,1.21,0.79,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0018,19,77.38,0.592,1.17,165.44,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0019,12,43.41,0.796,1.1,44.38,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0020,10,58.44,0.805,1.18,59.17,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0021,31,37.4,0.807,1.3,90.1,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0022,16,49.75,0.774,1.18,-2.79,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0023,17,40.55,0.841,1.09,68.78,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0024,10,44.92,0.701,1.16,62.26,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0025,14,56.21,0.801,1.27,71.42,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0026,18,29.76,0.806,1.23,42.84,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0027,11,110.25,0.84,1.14,-21.06,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0028,20,27.34,0.821,1.16,33.32,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0029,13,24.9,0.806,1.16,-7.0,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0030,15,72.41,0.772,1.15,45.7,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0031,13,61.4,0.801,1.09,-69.62,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0032,36,56.94,0.923,1.25,-177.53,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0033,17,57.05,0.939,1.3,27.85,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0034,11,42.76,0.887,1.11,0.06,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0035,24,28.72,0.814,1.29,36.22,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0036,10,44.49,0.791,1.18,14.78,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0037,18,31.71,0.721,1.29,26.49,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0038,10,66.69,0.84,1.19,61.81,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0039,10,40.25,0.763,1.2,2.79,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0040,18,29.66,0.683,1.22,14.12,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0041,23,37.21,0.806,1.14,137.28,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0042,18,51.78,0.934,1.29,41.24,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0043,16,33.37,0.712,1.13,15.84,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0044,15,29.7,0.827,1.17,22.54,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0045,10,47.98,0.831,1.23,14.92,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0046,13,48.01,0.81,1.16,-7.97,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0047,14,34.23,0.853,1.25,-17.18,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0048,26,34.79,0.726,1.31,-15.44,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0049,20,47.73,0.784,1.27,108.67,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0050,10,22.41,0.818,1.1,-1.43,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0051,19,22.82,0.738,1.2,13.7,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0052,15,31.12,0.75,1.27,46.71,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0053,13,39.06,0.803,1.12,11.03,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0054,22,49.46,0.77,1.24,103.01,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0055,26,83.52,0.794,1.24,-172.12,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0056,25,63.25,0.884,1.12,52.81,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0057,12,40.01,0.844,1.25,24.16,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0058,15,42.63,0.765,1.21,29.32,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0059,19,27.39,0.822,1.24,-45.92,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0060,25,42.64,0.698,1.14,149.51,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0061,14,37.76,0.651,1.2,-12.88,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0062,16,49.72,0.796,1.1,56.33,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0063,11,29.63,0.831,1.09,14.55,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0064,11,54.32,0.872,1.2,74.27,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0065,24,85.71,0.876,1.28,450.49,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0066,29,40.95,0.876,1.21,-70.34,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0067,17,51.52,0.868,1.19,-6.93,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0068,25,58.66,0.782,1.18,86.71,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0069,20,35.9,0.744,1.14,-31.9,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0070,13,47.56,0.877,1.18,65.89,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0071,20,43.24,0.81,1.22,96.4,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0072,31,44.93,0.865,1.16,123.62,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0073,17,30.37,0.836,1.25,32.49,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0074,32,43.48,0.75,1.2,213.68,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0075,10,53.8,0.828,1.21,-26.07,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0076,24,82.62,0.718,1.26,97.6,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0077,18,66.21,0.892,1.16,-18.0,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0078,15,113.31,0.772,1.24,195.79,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0079,18,30.44,0.831,1.17,-56.25,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0080,10,63.67,0.78,1.21,26.58,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0081,16,46.7,0.888,1.15,52.92,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0082,20,115.19,0.623,1.14,-73.26,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0083,31,29.89,0.734,1.2,-5.65,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0084,14,29.47,0.827,1.1,18.66,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0085,12,32.83,0.789,1.17,47.44,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0086,14,16.53,0.725,1.11,-8.94,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0087,25,33.94,0.84,1.25,-20.94,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0088,19,30.56,0.787,1.27,77.83,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0089,14,46.01,0.779,1.14,14.28,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0090,21,50.15,0.762,1.22,-19.17,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0091,18,100.03,0.855,1.26,184.19,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0092,25,65.95,0.818,1.26,8.15,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0093,13,33.17,0.845,1.2,54.42,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0094,15,28.7,0.805,1.25,-3.92,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0095,15,53.65,0.824,1.15,25.13,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0096,10,23.74,0.705,1.2,28.39,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0097,19,98.04,0.899,1.16,48.24,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0098,19,73.11,0.804,1.15,145.14,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0099,17,34.82,0.905,1.19,22.94,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0100,15,19.89,0.793,1.21,60.43,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0101,10,79.08,0.902,1.29,134.04,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0102,14,40.84,0.801,1.21,-35.59,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0103,15,75.05,0.897,1.24,96.57,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0104,12,20.98,0.831,1.24,-5.37,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0105,16,32.83,0.778,1.49,31.16,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0106,20,43.1,0.837,1.1,42.64,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0107,36,43.92,0.873,1.15,-63.93,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0108,18,35.12,0.853,1.32,81.35,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0109,19,56.91,0.817,1.17,65.16,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0110,17,26.6,0.768,1.26,9.6,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0111,10,40.33,0.621,1.21,3.61,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0112,17,45.39,0.883,1.4,42.58,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0113,17,54.2,0.807,1.13,70.61,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0114,46,59.23,0.781,1.29,92.64,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0115,16,25.92,0.827,1.35,-75.73,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0116,19,21.56,0.856,1.13,18.58,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0117,17,76.41,0.839,1.25,-92.64,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0118,11,49.94,0.727,1.14,14.97,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0119,27,30.7,0.834,1.19,-56.67,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0120,23,86.42,0.711,1.17,-137.78,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0121,23,45.3,0.736,1.08,148.79,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0122,12,73.1,0.684,1.22,16.13,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0123,30,44.33,0.858,1.2,16.31,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0124,10,108.69,0.749,1.32,89.78,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0125,21,94.74,0.645,1.24,28.56,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0126,41,38.44,0.82,1.42,334.6,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0127,11,66.58,0.83,1.2,16.23,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0128,14,57.49,0.781,1.18,58.92,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0129,18,79.61,0.842,1.18,174.36,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0130,14,27.85,0.769,1.16,67.13,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0131,10,58.55,0.758,1.09,-8.99,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0132,17,69.23,0.609,1.18,12.43,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0133,11,19.49,0.82,1.09,31.29,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0134,21,25.25,0.819,1.22,57.69,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0135,12,17.18,0.795,1.12,26.8,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0136,32,38.09,0.709,1.14,-79.83,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0137,12,59.39,0.863,1.15,119.62,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0138,15,84.54,0.847,1.18,-21.45,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0139,24,44.46,0.819,1.19,63.36,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0140,10,89.49,0.876,1.28,28.76,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0141,19,23.11,0.819,1.16,-11.54,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0142,29,19.98,0.819,1.22,-39.98,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0143,10,41.94,0.807,1.49,-40.06,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0144,18,51.11,0.821,1.22,49.24,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0145,19,42.37,0.752,1.18,-62.81,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0146,23,16.96,0.736,1.14,-18.22,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0147,10,41.31,0.663,1.18,10.97,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0148,10,23.91,0.718,1.14,-39.95,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0149,21,58.12,0.817,1.21,129.76,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0150,19,50.71,0.812,1.2,-143.36,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0151,19,28.17,0.646,1.09,20.24,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0152,20,34.12,0.722,1.19,30.85,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0153,13,26.7,0.735,1.28,30.21,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0154,19,41.8,0.768,1.17,32.3,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0155,19,66.09,0.699,1.15,257.96,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0156,13,27.59,0.738,1.12,21.99,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0157,36,53.95,0.784,1.1,249.16,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0158,21,33.87,0.86,1.25,-9.87,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0159,11,30.1,0.686,1.18,17.77,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0160,22,40.98,0.825,1.25,151.29,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0161,12,26.99,0.61,1.32,8.09,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0162,23,33.52,0.775,1.26,45.78,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0163,27,25.08,0.89,1.16,82.93,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0164,12,104.1,0.613,1.2,-19.21,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0165,25,43.69,0.774,1.15,-140.82,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0166,20,31.38,0.867,1.15,40.45,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0167,24,47.35,0.867,1.21,139.88,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0168,36,40.88,0.686,1.14,-94.36,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0169,15,38.93,0.826,1.09,57.0,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0170,13,56.69,0.792,1.14,72.34,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0171,12,60.47,0.877,1.17,-100.05,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0172,12,33.87,0.808,1.32,-12.56,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0173,16,33.18,0.842,1.16,6.55,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0174,19,37.99,0.87,1.23,21.39,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0175,19,15.26,0.873,1.18,-4.48,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0176,24,21.74,0.805,1.29,-10.31,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0177,17,79.54,0.893,1.28,240.31,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0178,30,90.15,0.833,1.29,95.73,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0179,15,38.44,0.819,1.1,-6.69,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0180,50,55.74,0.842,1.2,113.45,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0181,22,49.46,0.819,1.25,94.63,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0182,12,171.86,0.823,1.22,99.26,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0183,11,71.17,0.888,1.24,21.56,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0184,21,40.59,0.766,1.19,-6.82,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0185,16,27.97,0.76,1.15,-4.01,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0186,23,20.87,0.897,1.1,-1.84,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0187,21,47.12,0.697,1.15,70.36,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0188,17,30.6,0.783,1.49,-18.48,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0189,12,22.67,0.799,1.16,20.53,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0190,10,32.14,0.812,1.1,50.47,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0191,14,26.43,0.905,1.25,25.92,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0192,24,91.87,0.701,1.26,31.82,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0193,19,63.94,0.799,1.3,-72.71,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0194,10,42.85,0.742,1.22,72.95,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0195,18,83.69,0.884,1.26,-74.72,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0196,20,44.52,0.893,1.36,99.62,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0197,12,29.18,0.798,1.15,33.29,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0198,18,85.34,0.872,1.14,38.49,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0199,17,54.8,0.785,1.13,21.39,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0200,11,26.96,0.831,1.17,-30.5,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0201,20,39.47,0.777,1.31,55.58,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0202,21,29.0,0.81,1.23,57.0,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0203,26,23.08,0.834,1.23,-25.88,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0204,26,65.23,0.806,1.1,53.48,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0205,10,101.54,0.797,1.15,47.75,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0206,12,22.92,0.821,1.1,24.96,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0207,21,55.4,0.829,1.29,51.54,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0208,21,32.09,0.842,1.33,-58.03,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0209,21,34.54,0.844,1.25,1.16,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0210,79,32.94,0.84,1.13,161.26,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0211,21,29.15,0.785,1.32,68.15,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0212,27,43.95,0.737,1.17,-6.42,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0213,25,29.59,0.857,1.12,162.01,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0214,22,48.57,0.759,1.14,-114.93,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0215,15,42.04,0.868,1.16,-0.69,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0216,23,38.62,0.741,1.19,33.18,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0217,12,28.58,0.822,1.18,9.58,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0218,15,33.17,0.742,1.12,-27.15,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0219,14,60.41,0.834,1.29,67.51,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0220,18,53.87,0.875,1.18,71.45,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0221,43,27.7,0.799,1.15,56.98,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0222,10,44.97,0.797,1.28,31.73,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0223,22,60.3,0.614,1.13,13.4,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0224,10,20.29,0.679,1.11,-17.33,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0225,14,54.91,0.827,1.3,-10.25,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0226,26,31.91,0.811,1.37,46.93,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0227,17,55.59,0.898,1.16,53.89,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0228,11,30.5,0.851,1.19,15.87,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0229,13,19.09,0.741,1.13,21.81,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0230,22,20.67,0.763,1.19,-1.13,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0231,13,43.94,0.805,1.16,26.35,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0232,19,48.33,0.764,1.18,82.43,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0233,17,28.62,0.901,1.22,18.1,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0234,13,57.32,0.732,1.13,-41.33,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0235,40,20.36,0.849,1.17,-26.81,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0236,22,41.74,0.855,1.1,101.44,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0237,10,24.93,0.743,1.17,38.74,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0238,18,32.07,0.731,1.18,79.67,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0239,13,43.93,0.799,1.21,35.73,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0240,24,29.2,0.783,1.21,-36.62,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0241,12,36.17,0.82,1.26,18.88,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0242,16,67.63,0.721,1.11,182.85,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0243,21,33.17,0.682,1.11,65.11,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0244,24,62.63,0.791,1.23,41.19,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0245,11,25.86,0.838,1.09,26.82,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0246,15,54.58,0.83,1.2,-47.12,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0247,14,82.26,0.777,1.13,-13.42,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0248,13,14.14,0.635,1.33,-7.86,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0249,34,30.04,0.735,1.21,83.31,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0250,20,55.75,0.844,1.18,112.76,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0251,10,39.25,0.883,1.29,12.44,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0252,25,50.82,0.652,1.13,-32.82,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0253,40,32.77,0.89,1.14,55.6,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0254,26,44.71,0.86,1.12,5.9,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0255,10,40.09,0.878,1.14,-7.9,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0256,14,72.73,0.79,1.19,72.42,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0257,28,48.22,0.805,1.23,-22.47,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0258,13,50.05,0.878,1.27,-52.9,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0259,20,35.73,0.756,1.1,-45.4,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0260,23,34.53,0.903,1.18,-66.92,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0261,12,35.39,0.807,1.13,27.09,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0262,17,51.35,0.873,1.18,48.91,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0263,10,35.58,0.874,1.43,18.52,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0264,11,48.99,0.61,1.21,49.05,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0265,15,109.41,0.846,1.26,228.71,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0266,10,63.64,0.775,1.38,-2.15,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0267,33,37.13,0.696,1.28,93.76,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0268,10,73.83,0.791,1.16,-60.81,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0269,14,35.79,0.892,1.12,77.31,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0270,18,17.19,0.77,1.19,-17.2,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0271,30,27.32,0.852,1.16,-10.5,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0272,10,18.53,0.817,1.11,-0.71,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0273,27,36.71,0.711,1.21,-77.41,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0274,17,43.36,0.942,1.21,34.35,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0275,11,91.43,0.832,1.35,61.46,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0276,20,49.82,0.915,1.17,28.74,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0277,18,38.96,0.725,1.21,-55.56,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0278,13,62.45,0.718,1.15,164.54,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0279,17,15.9,0.857,1.26,23.77,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0280,15,47.81,0.853,1.18,182.69,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0281,18,60.83,0.798,1.13,-22.35,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0282,22,22.11,0.87,1.19,58.68,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0283,32,71.94,0.622,1.22,244.81,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0284,10,50.08,0.796,1.21,10.39,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0285,40,35.67,0.876,1.27,223.84,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0286,10,57.17,0.886,1.11,6.61,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0287,16,119.46,0.768,1.14,28.92,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0288,22,46.67,0.872,1.24,-239.96,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0289,19,48.08,0.664,1.15,70.09,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0290,13,34.97,0.783,1.21,-28.2,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0291,16,29.33,0.771,1.08,-0.03,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0292,14,62.48,0.583,1.49,-33.32,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0293,13,29.25,0.838,1.17,5.59,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0294,24,44.41,0.874,1.29,84.75,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0295,20,34.68,0.861,1.17,31.14,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0296,13,53.34,0.861,1.22,69.88,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0297,24,49.97,0.821,1.32,174.2,"Target Rendah, Win Rate Tinggi",Rendah
+ACC_REF_0298,60,23.29,0.637,1.54,192.47,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0299,57,21.12,0.711,1.46,-60.31,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0300,101,53.62,0.661,1.83,449.52,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0301,104,39.16,0.736,1.22,564.27,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0302,93,62.98,0.67,1.57,483.05,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0303,47,14.89,0.618,1.55,19.45,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0304,82,20.76,0.762,1.26,2.96,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0305,72,39.25,0.691,1.53,358.58,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0306,105,47.06,0.658,1.42,-345.09,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0307,55,57.09,0.614,1.34,-105.53,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0308,35,42.19,0.677,1.28,18.01,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0309,91,42.0,0.796,1.29,546.59,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0310,25,32.73,0.69,1.76,60.86,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0311,51,79.8,0.558,1.37,-136.11,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0312,46,23.74,0.657,1.49,20.94,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0313,46,45.84,0.667,1.28,-10.85,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0314,51,25.0,0.674,1.28,-16.3,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0315,112,49.61,0.634,1.54,679.6,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0316,96,24.46,0.647,1.23,-154.37,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0317,62,54.5,0.505,1.32,583.56,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0318,109,41.02,0.696,1.37,492.99,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0319,45,85.51,0.59,1.38,505.12,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0320,43,34.37,0.73,1.35,10.29,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0321,97,47.22,0.699,1.42,146.59,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0322,87,27.46,0.542,1.47,-168.79,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0323,57,34.26,0.522,1.48,3.96,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0324,44,40.9,0.74,1.26,150.25,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0325,124,19.62,0.575,1.33,359.3,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0326,35,20.61,0.673,1.56,-32.15,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0327,54,51.09,0.745,1.51,40.72,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0328,76,36.52,0.75,1.23,88.53,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0329,142,29.87,0.715,1.42,-287.0,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0330,80,27.99,0.679,1.19,204.46,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0331,84,28.48,0.626,1.38,-33.3,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0332,55,41.03,0.873,1.72,64.02,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0333,87,47.65,0.729,1.27,32.52,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0334,72,15.21,0.825,1.28,-20.97,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0335,37,73.65,0.804,1.48,118.37,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0336,95,71.33,0.7,1.22,181.28,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0337,102,13.66,0.74,1.3,19.86,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0338,95,63.58,0.506,1.46,-86.23,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0339,70,62.7,0.923,1.3,305.31,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0340,47,39.01,0.766,1.34,323.22,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0341,27,21.75,0.708,1.48,32.41,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0342,73,61.58,0.733,1.43,556.03,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0343,106,34.99,0.665,1.41,-249.31,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0344,103,49.93,0.651,1.33,291.19,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0345,96,105.87,0.762,1.42,-445.06,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0346,67,43.68,0.759,1.35,-217.02,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0347,107,25.82,0.691,1.43,-41.85,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0348,100,33.53,0.63,1.31,467.25,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0349,58,27.34,0.732,1.35,190.29,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0350,90,47.4,0.668,1.26,270.64,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0351,56,27.14,0.793,1.37,-119.48,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0352,86,31.52,0.594,1.28,76.71,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0353,41,21.88,0.608,1.25,61.12,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0354,42,36.75,0.649,1.41,89.59,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0355,105,42.23,0.611,1.4,-458.95,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0356,100,11.65,0.385,1.49,-31.72,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0357,89,43.83,0.79,1.32,151.64,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0358,71,38.21,0.688,1.43,235.76,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0359,27,27.64,0.666,1.45,-98.28,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0360,67,97.17,0.594,1.43,202.02,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0361,83,60.03,0.805,1.28,276.25,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0362,56,23.81,0.61,1.39,149.29,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0363,52,56.87,0.648,1.42,294.03,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0364,123,68.28,0.639,1.37,760.95,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0365,67,41.39,0.709,1.18,-55.45,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0366,83,45.89,0.574,1.39,-413.8,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0367,94,45.41,0.783,1.8,53.59,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0368,46,15.26,0.663,1.33,87.13,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0369,75,35.85,0.821,1.29,418.04,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0370,117,35.02,0.671,1.42,413.19,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0371,143,74.23,0.738,1.41,831.65,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0372,70,45.32,0.6,1.56,235.94,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0373,63,34.11,0.786,1.24,-1.05,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0374,77,37.45,0.836,1.48,96.88,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0375,76,61.81,0.397,1.45,833.94,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0376,120,35.89,0.806,1.35,-135.25,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0377,46,28.48,0.648,1.42,226.88,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0378,62,34.45,0.876,1.53,38.95,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0379,44,59.55,0.643,1.5,393.12,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0380,46,48.76,0.778,1.25,-153.74,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0381,80,39.78,0.72,1.49,289.19,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0382,95,42.51,0.608,1.36,-60.34,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0383,53,30.32,0.775,1.38,-111.24,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0384,94,35.74,0.507,1.38,206.55,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0385,108,28.94,0.737,1.35,389.93,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0386,150,34.16,0.671,1.56,-120.9,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0387,71,71.47,0.777,1.36,-385.25,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0388,53,24.01,0.684,1.25,46.64,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0389,46,28.61,0.705,1.32,48.7,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0390,44,22.18,0.708,1.39,85.75,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0391,114,20.12,0.623,1.57,275.17,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0392,38,35.86,0.707,1.46,53.48,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0393,112,29.54,0.84,1.27,636.68,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0394,49,86.17,0.7,1.88,261.53,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0395,52,34.34,0.628,1.41,29.08,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0396,65,69.67,0.765,1.58,-384.59,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0397,52,60.29,0.607,1.35,72.07,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0398,100,35.5,0.823,1.45,60.67,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0399,143,100.8,0.797,1.5,1741.61,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0400,53,44.01,0.639,1.57,188.93,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0401,58,77.05,0.618,1.54,-225.01,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0402,65,73.11,0.728,1.5,274.58,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0403,86,47.0,0.813,1.33,394.99,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0404,65,54.68,0.753,1.3,590.86,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0405,120,51.65,0.68,1.42,712.77,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0406,109,23.3,0.672,1.51,266.33,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0407,43,40.02,0.678,1.34,83.99,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0408,85,63.24,0.709,1.54,403.5,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0409,127,77.51,0.654,1.62,1417.11,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0410,57,28.2,0.863,1.27,-100.66,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0411,61,49.48,0.763,1.28,48.43,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0412,56,41.74,0.737,1.35,-41.62,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0413,56,36.99,0.792,1.41,153.97,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0414,35,45.78,0.586,1.31,228.2,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0415,41,43.02,0.767,1.59,-6.63,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0416,71,49.76,0.794,1.43,-520.14,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0417,126,74.61,0.563,1.38,103.62,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0418,54,55.5,0.79,1.22,350.88,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0419,53,44.85,0.762,1.23,206.83,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0420,136,90.26,0.664,1.41,960.61,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0421,44,64.27,0.614,1.18,61.08,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0422,36,37.41,0.593,1.53,-78.55,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0423,50,22.55,0.552,1.35,96.09,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0424,53,25.0,0.776,2.15,-30.13,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0425,34,59.35,0.574,1.83,441.37,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0426,66,29.37,0.583,1.35,173.76,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0427,101,24.78,0.858,1.36,-6.14,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0428,41,27.73,0.741,1.52,-5.58,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0429,71,28.62,0.702,1.67,74.3,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0430,81,57.19,0.7,1.21,115.07,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0431,67,36.34,0.773,1.2,324.67,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0432,74,21.03,0.657,1.3,91.68,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0433,75,39.55,0.704,1.45,-43.1,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0434,50,43.1,0.595,1.44,420.73,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0435,126,31.43,0.842,1.54,189.87,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0436,114,65.61,0.705,1.24,789.15,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0437,111,32.27,0.594,1.16,-16.69,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0438,104,64.22,0.672,1.5,487.89,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0439,37,51.01,0.759,1.28,130.02,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0440,100,59.18,0.665,1.18,-634.24,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0441,90,23.79,0.636,1.39,439.4,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0442,37,40.76,0.757,1.49,222.07,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0443,63,38.08,0.652,1.35,29.33,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0444,77,20.57,0.786,1.32,-69.98,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0445,134,64.13,0.667,1.35,617.05,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0446,92,27.0,0.757,1.32,126.52,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0447,49,29.64,0.804,1.23,105.23,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0448,136,24.72,0.796,1.29,199.45,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0449,70,53.47,0.558,1.44,316.27,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0450,62,19.63,0.722,1.41,194.47,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0451,61,51.5,0.821,1.39,281.0,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0452,36,62.4,0.772,1.26,-89.79,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0453,66,49.66,0.662,1.35,501.48,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0454,84,53.74,0.765,1.17,791.1,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0455,59,54.89,0.837,1.39,959.13,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0456,82,25.44,0.758,1.61,-95.71,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0457,49,74.38,0.763,1.22,231.18,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0458,65,31.71,0.704,1.3,-252.63,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0459,78,37.85,0.552,1.42,260.55,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0460,74,33.58,0.72,1.57,0.36,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0461,36,48.66,0.617,1.32,346.63,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0462,58,30.61,0.738,1.29,-31.9,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0463,135,40.19,0.525,1.19,-494.46,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0464,57,22.37,0.545,1.38,8.03,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0465,69,65.87,0.684,1.76,-518.31,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0466,67,52.74,0.665,1.41,367.8,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0467,129,34.19,0.78,1.37,-534.58,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0468,116,31.58,0.762,1.41,169.52,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0469,95,52.12,0.698,1.37,-605.18,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0470,47,28.37,0.641,1.28,24.5,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0471,80,41.26,0.696,1.49,579.19,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0472,87,65.77,0.628,1.4,416.86,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0473,52,27.07,0.746,1.37,-35.3,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0474,49,46.04,0.703,1.26,93.63,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0475,136,44.95,0.777,1.58,277.79,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0476,61,37.33,0.717,1.47,186.29,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0477,132,31.09,0.687,1.3,-268.18,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0478,103,67.37,0.599,1.53,634.27,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0479,81,29.8,0.808,1.31,-416.02,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0480,83,17.26,0.703,1.28,-9.16,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0481,39,52.03,0.878,1.28,10.02,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0482,75,22.71,0.515,1.2,161.24,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0483,122,53.25,0.68,1.44,297.61,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0484,91,71.11,0.666,1.19,-442.91,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0485,73,51.78,0.655,1.24,-131.54,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0486,137,63.16,0.675,1.18,518.26,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0487,64,96.79,0.593,1.36,233.38,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0488,54,60.26,0.608,1.35,-7.58,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0489,73,45.26,0.728,1.33,18.28,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0490,94,81.36,0.584,1.26,762.44,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0491,35,85.9,0.571,1.25,7.77,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0492,77,86.45,0.742,1.44,245.98,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0493,95,31.25,0.759,1.31,645.98,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0494,62,21.21,0.33,1.41,-91.91,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0495,107,30.41,0.775,1.27,-338.88,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0496,89,53.53,0.634,1.39,508.28,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0497,162,41.9,0.793,1.58,-69.86,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0498,51,35.54,0.678,1.45,33.61,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0499,96,50.19,0.768,1.32,-89.1,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0500,46,20.12,0.868,1.4,21.49,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0501,36,41.56,0.642,1.34,257.16,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0502,31,64.51,0.67,1.37,216.32,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0503,86,49.94,0.711,1.33,485.22,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0504,74,53.24,0.684,1.35,-273.02,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0505,57,80.03,0.567,1.4,-219.38,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0506,34,37.86,0.703,1.26,-235.73,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0507,52,29.07,0.683,1.26,-31.37,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0508,69,66.61,0.706,1.23,554.0,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0509,95,66.06,0.802,1.21,535.67,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0510,69,50.14,0.671,1.24,90.92,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0511,76,36.28,0.605,1.39,116.4,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0512,59,39.02,0.877,1.27,-25.58,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0513,139,21.96,0.498,1.44,184.31,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0514,46,64.35,0.748,1.37,311.61,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0515,52,63.34,0.667,1.19,-280.86,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0516,57,21.61,0.775,1.47,83.73,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0517,86,57.63,0.777,1.49,587.78,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0518,46,46.78,0.592,1.26,23.22,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0519,73,24.62,0.728,1.43,179.83,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0520,74,22.67,0.623,1.27,451.56,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0521,52,46.14,0.517,1.38,85.54,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0522,79,32.61,0.574,1.24,194.41,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0523,46,88.46,0.708,1.2,-61.22,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0524,44,59.87,0.754,1.32,154.11,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0525,72,48.27,0.728,1.35,280.89,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0526,36,49.35,0.615,1.32,105.86,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0527,29,70.98,0.565,1.24,-77.35,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0528,85,57.08,0.586,1.32,293.58,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0529,105,48.84,0.728,1.41,825.52,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0530,57,25.09,0.844,1.36,114.25,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0531,53,154.69,0.786,1.39,991.69,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0532,103,23.74,0.771,1.29,61.23,"Frekuensi Tinggi, Target Rendah",Perlu Dipantau
+ACC_REF_0533,27,1810.9,0.64,1.38,2844.01,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0534,22,2418.91,0.664,1.35,14425.38,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0535,14,4387.97,0.692,1.45,-826.33,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0536,23,2922.03,0.49,1.75,2870.07,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0537,13,2797.23,0.59,1.37,-1003.45,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0538,16,1833.3,0.642,1.52,4317.7,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0539,22,1141.03,0.699,1.39,5174.54,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0540,23,2025.76,0.694,1.45,9532.53,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0541,12,3829.49,0.531,1.29,7762.34,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0542,30,1119.11,0.524,1.45,1852.92,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0543,25,1383.98,0.582,1.46,1445.59,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0544,15,2355.09,0.645,1.59,-2214.74,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0545,11,1428.55,0.724,1.53,3675.04,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0546,19,1557.56,0.507,1.32,3211.45,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0547,17,1838.84,0.405,1.72,989.18,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0548,21,1203.49,0.691,1.53,4479.55,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0549,17,1435.34,0.742,1.53,-166.44,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0550,10,3053.53,0.683,1.49,3161.31,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0551,17,1235.46,0.588,1.41,1201.14,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0552,18,1084.06,0.571,1.53,2382.43,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0553,26,1675.72,0.391,1.58,2871.79,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0554,15,3092.99,0.502,1.27,-2091.21,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0555,39,2036.32,0.691,1.41,6118.73,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0556,10,1805.24,0.502,1.45,2796.48,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0557,34,2269.86,0.66,1.54,5299.06,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0558,18,1014.29,0.794,1.74,2428.38,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0559,28,2779.79,0.489,1.37,-984.01,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0560,21,2644.03,0.518,1.41,3825.6,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0561,32,1850.71,0.55,1.41,1246.0,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0562,17,3498.81,0.543,1.37,7777.48,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0563,13,1339.62,0.763,1.43,1280.34,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0564,35,3696.24,0.719,1.64,16327.05,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0565,19,2385.19,0.63,1.34,7161.1,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0566,22,1912.3,0.61,1.57,5314.76,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0567,33,2205.19,0.484,1.27,6756.77,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0568,13,2120.15,0.618,1.4,-244.12,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0569,25,3853.12,0.54,1.44,6817.82,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0570,16,1370.6,0.795,1.88,621.76,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0571,19,1578.73,0.716,1.45,1304.07,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0572,21,3546.97,0.485,1.23,3056.72,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0573,11,1701.94,0.51,1.24,-138.43,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0574,15,3336.75,0.539,1.5,-4283.74,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0575,34,4780.3,0.493,1.61,2852.17,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0576,29,1856.98,0.679,1.56,4656.64,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0577,20,3023.36,0.604,1.52,-2228.47,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0578,22,1323.92,0.438,1.74,2104.5,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0579,18,3124.85,0.761,1.41,12544.36,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0580,34,2433.91,0.711,1.67,12648.33,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0581,18,2752.82,0.564,1.28,10033.2,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0582,22,1664.04,0.633,1.36,3744.73,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0583,32,1053.66,0.733,1.26,5543.12,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0584,15,2790.5,0.628,1.45,547.61,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0585,37,879.17,0.579,1.48,632.79,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0586,11,1928.9,0.62,1.51,-3143.03,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0587,38,3398.35,0.541,1.5,21422.8,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0588,17,2425.68,0.657,1.35,8009.21,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0589,18,5346.87,0.647,1.46,2574.12,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0590,10,3529.15,0.661,1.29,1788.71,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0591,17,1657.82,0.517,1.79,301.3,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0592,13,2252.52,0.611,1.44,2975.49,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0593,16,2178.07,0.651,1.41,5610.52,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0594,19,1091.75,0.637,1.85,-1419.29,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0595,29,1457.29,0.628,1.32,4384.84,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0596,22,1728.78,0.653,1.33,1858.54,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0597,23,889.99,0.526,1.33,1639.05,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0598,13,2273.06,0.55,1.48,3183.09,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0599,14,1989.08,0.548,1.57,1557.87,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0600,41,1048.07,0.597,1.63,2694.83,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0601,15,2668.86,0.711,2.21,2157.37,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0602,39,3070.68,0.537,1.22,17798.85,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0603,18,2464.34,0.62,1.61,4635.46,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0604,20,1923.08,0.545,1.4,3409.49,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0605,31,2903.47,0.504,1.4,-2761.08,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0606,33,3021.81,0.615,1.39,4059.95,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0607,19,2555.09,0.517,1.36,6937.01,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0608,17,1535.23,0.605,1.88,1931.73,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0609,20,2519.92,0.64,1.66,6237.43,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0610,23,3810.36,0.512,1.49,18607.44,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0611,29,1701.1,0.598,1.79,7601.48,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0612,20,5719.2,0.762,1.29,8973.73,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0613,26,1756.32,0.467,1.31,1375.45,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0614,39,2257.69,0.575,1.23,-11735.64,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0615,23,1644.01,0.776,1.38,2175.31,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0616,23,2460.17,0.638,1.52,2541.69,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0617,11,1015.88,0.713,1.51,1142.38,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0618,10,1740.27,0.712,1.52,1021.32,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0619,23,1361.11,0.702,1.3,1420.31,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0620,19,2364.72,0.64,1.65,-3205.82,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0621,16,3480.79,0.661,1.53,-233.77,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0622,22,2975.64,0.548,1.63,7144.23,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0623,20,765.3,0.58,1.25,3187.82,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0624,31,5577.21,0.733,1.55,10926.52,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0625,21,2541.19,0.74,1.32,5188.41,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0626,15,1568.83,0.592,1.43,3463.94,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0627,30,2388.02,0.633,1.59,439.05,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0628,18,2408.59,0.543,1.51,4350.42,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0629,25,1648.19,0.654,1.36,484.6,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0630,17,2432.26,0.49,1.49,5796.47,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0631,15,1692.82,0.529,1.29,2110.41,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0632,21,1854.83,0.624,1.73,3695.56,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0633,20,1633.84,0.586,1.46,274.23,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0634,24,1167.72,0.638,1.72,3574.98,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0635,18,2375.92,0.73,1.41,10168.91,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0636,10,2895.45,0.652,1.41,-278.92,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0637,17,2805.14,0.673,1.38,2089.63,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0638,27,3217.88,0.645,1.67,7778.49,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0639,18,2574.64,0.484,1.38,6205.98,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0640,18,1750.73,0.563,1.61,826.79,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0641,30,3246.59,0.509,1.43,-15159.21,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0642,15,1207.89,0.433,1.25,3256.5,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0643,11,1483.58,0.649,1.4,2151.56,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0644,19,1441.76,0.532,1.32,-1874.69,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0645,16,3617.5,0.598,1.5,1296.19,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0646,14,3400.8,0.564,1.32,9353.44,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0647,19,2770.55,0.664,1.68,9834.48,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0648,24,3604.29,0.47,1.47,12637.32,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0649,20,1497.92,0.499,1.46,1704.96,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0650,23,2602.9,0.589,1.62,4647.99,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0651,41,2103.13,0.674,1.69,5219.05,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0652,17,3257.15,0.668,1.49,8929.17,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0653,22,2112.57,0.526,1.37,43.34,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0654,16,1871.11,0.817,1.26,195.67,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0655,14,2838.19,0.531,1.39,6032.59,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0656,16,3300.36,0.512,1.39,3561.81,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0657,17,1647.08,0.76,1.51,5075.83,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0658,23,2164.68,0.664,1.43,860.28,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0659,51,1381.9,0.664,1.62,4695.01,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0660,15,722.98,0.525,1.4,-30.29,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0661,17,2435.04,0.728,1.48,2963.48,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0662,20,2926.37,0.561,1.74,-2767.4,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0663,23,2503.49,0.571,1.55,1841.95,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0664,22,925.38,0.579,1.48,-893.74,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0665,33,1900.04,0.476,1.4,7932.59,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0666,10,819.96,0.711,1.39,1052.23,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0667,10,4121.11,0.673,1.36,-2778.49,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0668,16,1364.83,0.454,1.41,3880.72,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0669,31,3914.5,0.519,1.64,32860.62,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0670,11,3405.52,0.446,1.45,2797.59,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0671,10,1483.63,0.552,1.31,292.44,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0672,25,1336.43,0.434,1.91,9921.2,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0673,22,2604.98,0.612,1.55,-1978.18,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0674,13,1521.67,0.739,1.3,1436.32,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0675,13,2330.02,0.566,1.42,2585.87,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0676,14,1790.48,0.641,1.51,4477.21,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0677,21,998.24,0.647,1.89,2091.67,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0678,16,815.5,0.313,1.33,405.91,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0679,24,2463.95,0.657,1.69,-301.28,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0680,10,1728.16,0.8,1.8,754.42,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0681,14,1734.76,0.675,1.39,-232.04,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0682,13,3043.16,0.607,1.44,2960.2,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0683,18,3772.76,0.478,1.34,1756.44,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0684,16,1968.18,0.763,1.46,-1528.03,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0685,28,1908.82,0.759,1.48,9161.43,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0686,10,2786.6,0.574,1.62,869.03,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0687,20,1208.21,0.457,1.72,-735.82,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0688,25,2460.04,0.62,1.38,3538.72,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0689,42,2852.24,0.614,1.25,9160.62,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0690,16,3021.82,0.627,1.49,-3322.42,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0691,23,930.73,0.689,1.54,2087.84,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0692,10,1579.56,0.487,1.53,-201.75,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0693,10,1498.61,0.541,1.44,3115.35,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0694,28,2327.29,0.754,1.51,7358.13,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0695,20,2762.38,0.528,1.83,2155.1,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0696,32,4363.51,0.526,1.56,1589.93,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0697,12,1780.73,0.497,1.43,1337.74,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0698,25,1778.64,0.663,1.41,5336.95,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0699,42,3732.62,0.534,1.46,10810.94,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0700,24,2542.67,0.384,1.87,3272.56,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0701,22,3936.14,0.736,1.46,6552.62,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0702,20,2533.71,0.547,1.49,1149.86,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0703,11,1321.88,0.626,1.41,633.15,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0704,34,1221.22,0.612,1.72,-3980.39,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0705,16,1106.91,0.524,1.97,2637.07,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0706,24,2997.21,0.71,1.57,6826.72,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0707,11,3798.57,0.735,1.5,381.22,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0708,12,5113.94,0.544,1.5,13678.69,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0709,36,3251.62,0.592,1.21,9126.02,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0710,17,3754.8,0.586,1.64,-759.05,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0711,36,1713.86,0.605,1.51,8609.41,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0712,19,1322.3,0.593,1.57,2583.82,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0713,10,3261.84,0.578,1.38,3345.55,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0714,29,2685.09,0.611,1.43,2876.39,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0715,16,2335.22,0.692,1.42,3999.38,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0716,26,2648.71,0.611,1.7,3447.41,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0717,20,2573.3,0.777,1.43,5943.05,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0718,11,3964.88,0.546,2.02,-3549.96,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0719,21,3984.85,0.68,1.57,3036.82,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0720,48,2842.42,0.596,1.31,28484.11,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0721,24,3255.57,0.582,1.47,752.79,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0722,20,2804.11,0.645,1.39,1272.67,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0723,31,1808.02,0.656,1.23,1970.84,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0724,22,3127.43,0.673,1.86,-1801.58,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0725,22,1187.96,0.65,1.63,-2761.5,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0726,13,3575.15,0.799,1.59,2442.51,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0727,22,1299.81,0.562,1.52,2341.1,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0728,30,2530.38,0.565,1.3,5070.85,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0729,14,1521.11,0.508,1.41,1265.16,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0730,35,2854.17,0.476,1.66,7436.58,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0731,19,2191.29,0.554,1.34,6362.89,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0732,14,1085.58,0.705,1.2,847.51,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0733,30,2688.74,0.693,1.45,2022.48,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0734,18,1715.48,0.587,1.47,1497.92,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0735,27,3307.77,0.659,1.51,10480.3,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0736,18,2226.33,0.7,1.63,7372.09,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0737,20,2658.33,0.812,1.61,1103.13,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0738,24,1446.07,0.569,1.54,2738.79,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0739,22,1706.69,0.553,1.74,3682.2,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0740,10,1810.08,0.417,1.29,-152.16,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0741,13,3271.58,0.662,1.58,3089.14,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0742,29,4733.08,0.66,1.61,-6348.78,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0743,19,1548.72,0.62,1.32,-2075.22,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0744,16,3612.28,0.582,1.29,5799.28,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0745,12,838.12,0.642,1.38,405.21,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0746,13,1300.01,0.348,1.39,1473.39,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0747,10,1445.29,0.588,1.64,1005.47,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0748,19,1210.61,0.705,1.4,-163.59,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0749,16,1091.05,0.456,1.36,1176.23,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0750,14,2679.44,0.467,1.4,-1037.14,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0751,19,2020.66,0.609,1.72,6998.11,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0752,23,2639.24,0.51,1.49,-2274.99,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0753,46,3035.78,0.664,1.46,7727.61,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0754,11,2507.5,0.494,1.47,-341.52,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0755,32,2991.43,0.577,1.77,11164.85,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0756,30,2156.46,0.551,1.38,2877.94,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0757,15,1304.23,0.614,1.78,577.25,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0758,22,3581.47,0.505,1.53,10972.32,Taruhan Nominal Tinggi,Perlu Dipantau
+ACC_REF_0759,16,76.28,0.162,3.4,-374.41,Target Menengah,Tinggi
+ACC_REF_0760,20,122.43,0.503,2.14,-472.36,Target Menengah,Tinggi
+ACC_REF_0761,11,72.7,0.52,1.97,-128.94,Target Menengah,Tinggi
+ACC_REF_0762,10,41.15,0.264,2.65,-119.51,Target Menengah,Tinggi
+ACC_REF_0763,17,140.31,0.297,2.12,-388.7,Target Menengah,Tinggi
+ACC_REF_0764,14,57.63,0.272,1.97,-149.15,Target Menengah,Tinggi
+ACC_REF_0765,21,81.81,0.372,2.1,-185.14,Target Menengah,Tinggi
+ACC_REF_0766,15,102.69,0.261,2.28,-436.76,Target Menengah,Tinggi
+ACC_REF_0767,17,91.89,0.29,3.08,-544.98,Target Menengah,Tinggi
+ACC_REF_0768,10,137.44,0.407,1.66,-393.68,Target Menengah,Tinggi
+ACC_REF_0769,34,104.21,0.23,2.31,-812.41,Target Menengah,Tinggi
+ACC_REF_0770,15,57.01,0.341,2.62,-206.38,Target Menengah,Tinggi
+ACC_REF_0771,21,223.89,0.216,2.39,-1304.6,Target Menengah,Tinggi
+ACC_REF_0772,11,91.68,0.239,3.06,-402.12,Target Menengah,Tinggi
+ACC_REF_0773,18,78.61,0.206,2.27,-294.83,Target Menengah,Tinggi
+ACC_REF_0774,10,129.62,0.33,2.22,-114.34,Target Menengah,Tinggi
+ACC_REF_0775,19,93.98,0.338,2.6,-372.94,Target Menengah,Tinggi
+ACC_REF_0776,14,100.53,0.148,2.35,-277.64,Target Menengah,Tinggi
+ACC_REF_0777,16,257.83,0.318,2.13,-825.9,Target Menengah,Tinggi
+ACC_REF_0778,21,74.22,0.206,2.56,-333.91,Target Menengah,Tinggi
+ACC_REF_0779,10,72.81,0.533,2.03,-124.84,Target Menengah,Tinggi
+ACC_REF_0780,12,88.52,0.421,2.05,-227.71,Target Menengah,Tinggi
+ACC_REF_0781,19,136.05,0.368,2.08,-700.56,Target Menengah,Tinggi
+ACC_REF_0782,37,42.64,0.426,3.09,-488.57,Target Menengah,Tinggi
+ACC_REF_0783,15,34.69,0.306,1.42,-138.37,Target Menengah,Tinggi
+ACC_REF_0784,20,64.5,0.406,2.49,-284.92,Target Menengah,Tinggi
+ACC_REF_0785,15,40.27,0.259,2.32,-163.87,Target Menengah,Tinggi
+ACC_REF_0786,35,69.38,0.323,1.72,-536.3,Target Menengah,Tinggi
+ACC_REF_0787,10,105.31,0.234,2.45,-222.07,Target Menengah,Tinggi
+ACC_REF_0788,17,56.26,0.597,2.54,-171.53,Target Menengah,Tinggi
+ACC_REF_0789,10,44.2,0.18,2.6,-63.37,Target Menengah,Tinggi
+ACC_REF_0790,10,86.66,0.243,1.51,-207.78,Target Menengah,Tinggi
+ACC_REF_0791,18,123.84,0.253,3.1,-781.58,Target Menengah,Tinggi
+ACC_REF_0792,17,39.18,0.453,2.0,-182.24,Target Menengah,Tinggi
+ACC_REF_0793,14,121.5,0.315,2.65,-412.45,Target Menengah,Tinggi
+ACC_REF_0794,15,121.34,0.259,2.68,-715.05,Target Menengah,Tinggi
+ACC_REF_0795,55,129.04,0.391,1.96,-957.46,Target Menengah,Tinggi
+ACC_REF_0796,14,145.35,0.575,2.64,-477.41,Target Menengah,Tinggi
+ACC_REF_0797,20,226.27,0.292,2.14,-975.19,Target Menengah,Tinggi
+ACC_REF_0798,12,71.56,0.41,1.63,-117.44,Target Menengah,Tinggi
+ACC_REF_0799,18,88.25,0.181,2.96,-470.85,Target Menengah,Tinggi
+ACC_REF_0800,15,69.65,0.234,1.99,-209.03,Target Menengah,Tinggi
+ACC_REF_0801,14,84.07,0.413,1.96,-299.88,Target Menengah,Tinggi
+ACC_REF_0802,33,167.44,0.4,2.13,-1440.65,Target Menengah,Tinggi
+ACC_REF_0803,26,45.86,0.272,2.43,-366.98,Target Menengah,Tinggi
+ACC_REF_0804,17,57.02,0.303,2.27,-109.29,Target Menengah,Tinggi
+ACC_REF_0805,10,156.11,0.365,2.57,-430.93,Target Menengah,Tinggi
+ACC_REF_0806,14,132.93,0.394,1.81,-353.67,Target Menengah,Tinggi
+ACC_REF_0807,47,71.34,0.377,2.0,-1327.78,Target Menengah,Tinggi
+ACC_REF_0808,15,123.38,0.418,2.25,-280.57,Target Menengah,Tinggi
+ACC_REF_0809,25,97.94,0.258,3.53,-396.22,Target Menengah,Tinggi
+ACC_REF_0810,28,165.0,0.459,2.25,-1100.51,Target Menengah,Tinggi
+ACC_REF_0811,17,86.86,0.442,2.9,-390.06,Target Menengah,Tinggi
+ACC_REF_0812,11,133.27,0.354,2.32,-313.72,Target Menengah,Tinggi
+ACC_REF_0813,10,275.81,0.336,2.1,-173.48,Target Menengah,Tinggi
+ACC_REF_0814,21,109.94,0.185,2.19,-893.62,Target Menengah,Tinggi
+ACC_REF_0815,12,85.89,0.289,2.23,-189.07,Target Menengah,Tinggi
+ACC_REF_0816,17,116.27,0.149,2.61,-630.39,Target Menengah,Tinggi
+ACC_REF_0817,10,71.27,0.271,3.1,-176.46,Target Menengah,Tinggi
+ACC_REF_0818,14,246.02,0.195,2.47,-915.59,Target Menengah,Tinggi
+ACC_REF_0819,16,91.09,0.369,2.97,-408.47,Target Menengah,Tinggi
+ACC_REF_0820,18,74.29,0.2,1.93,-330.08,Target Menengah,Tinggi
+ACC_REF_0821,10,57.67,0.284,2.12,-194.19,Target Menengah,Tinggi
+ACC_REF_0822,26,137.63,0.346,2.01,-585.66,Target Menengah,Tinggi
+ACC_REF_0823,13,124.1,0.167,2.45,-628.43,Target Menengah,Tinggi
+ACC_REF_0824,10,67.16,0.291,2.15,-136.21,Target Menengah,Tinggi
+ACC_REF_0825,15,108.88,0.514,2.68,-444.43,Target Menengah,Tinggi
+ACC_REF_0826,16,42.6,0.259,1.94,-231.52,Target Menengah,Tinggi
+ACC_REF_0827,17,91.29,0.289,2.32,-356.65,Target Menengah,Tinggi
+ACC_REF_0828,28,102.98,0.362,2.65,-1068.48,Target Menengah,Tinggi
+ACC_REF_0829,15,181.11,0.338,1.63,-659.66,Target Menengah,Tinggi
+ACC_REF_0830,15,59.38,0.498,3.73,-320.5,Target Menengah,Tinggi
+ACC_REF_0831,10,47.25,0.424,2.18,-98.8,Target Menengah,Tinggi
+ACC_REF_0832,22,56.14,0.395,1.64,-395.16,Target Menengah,Tinggi
+ACC_REF_0833,17,46.03,0.178,2.37,-220.73,Target Menengah,Tinggi
+ACC_REF_0834,14,153.29,0.282,2.32,-477.46,Target Menengah,Tinggi
+ACC_REF_0835,10,168.63,0.446,2.26,-519.05,Target Menengah,Tinggi
+ACC_REF_0836,29,97.02,0.302,2.84,-705.19,Target Menengah,Tinggi
+ACC_REF_0837,10,145.53,0.258,2.69,-534.25,Target Menengah,Tinggi
+ACC_REF_0838,13,89.22,0.301,2.44,-226.79,Target Menengah,Tinggi
+ACC_REF_0839,18,80.48,0.345,2.52,-151.83,Target Menengah,Tinggi
+ACC_REF_0840,10,72.31,0.235,2.25,-16.36,Target Menengah,Tinggi
+ACC_REF_0841,10,73.05,0.342,3.42,-174.38,Target Menengah,Tinggi
+ACC_REF_0842,10,41.86,0.201,1.77,-76.58,Target Menengah,Tinggi
+ACC_REF_0843,21,94.61,0.242,2.37,-771.78,Target Menengah,Tinggi
+ACC_REF_0844,13,82.49,0.267,2.33,-134.88,Target Menengah,Tinggi
+ACC_REF_0845,52,117.48,0.386,2.73,-1123.45,Target Menengah,Tinggi
+ACC_REF_0846,11,87.61,0.263,1.97,-274.38,Target Menengah,Tinggi
+ACC_REF_0847,11,78.07,0.24,1.71,-126.26,Target Menengah,Tinggi
+ACC_REF_0848,13,56.76,0.288,2.37,-196.54,Target Menengah,Tinggi
+ACC_REF_0849,18,86.77,0.278,2.43,-441.45,Target Menengah,Tinggi
+ACC_REF_0850,13,117.1,0.517,3.19,-316.6,Target Menengah,Tinggi
+ACC_REF_0851,20,50.22,0.28,1.83,-332.53,Target Menengah,Tinggi
+ACC_REF_0852,11,87.37,0.46,2.95,-157.87,Target Menengah,Tinggi
+ACC_REF_0853,10,93.29,0.29,3.98,-308.3,Target Menengah,Tinggi
+ACC_REF_0854,10,60.81,0.441,2.14,-200.68,Target Menengah,Tinggi
+ACC_REF_0855,10,64.48,0.245,1.83,-205.55,Target Menengah,Tinggi
+ACC_REF_0856,13,93.19,0.477,2.13,-224.41,Target Menengah,Tinggi
+ACC_REF_0857,14,50.44,0.319,2.31,-208.56,Target Menengah,Tinggi
+ACC_REF_0858,12,98.33,0.224,2.58,-417.52,Target Menengah,Tinggi
+ACC_REF_0859,26,56.14,0.426,2.06,-429.8,Target Menengah,Tinggi
+ACC_REF_0860,26,135.52,0.254,3.24,-875.82,Target Menengah,Tinggi
+ACC_REF_0861,14,240.53,0.326,1.88,-1146.53,Target Menengah,Tinggi
+ACC_REF_0862,10,57.02,0.385,1.71,-192.8,Target Menengah,Tinggi
+ACC_REF_0863,13,106.83,0.226,2.91,-107.07,Target Menengah,Tinggi
+ACC_REF_0864,13,60.57,0.146,1.59,-247.91,Target Menengah,Tinggi
+ACC_REF_0865,12,134.19,0.397,2.21,-437.74,Target Menengah,Tinggi
+ACC_REF_0866,12,47.53,0.281,4.87,-157.07,Target Menengah,Tinggi
+ACC_REF_0867,12,104.28,0.189,2.29,-350.02,Target Menengah,Tinggi
+ACC_REF_0868,14,56.71,0.337,1.88,-155.84,Target Menengah,Tinggi
+ACC_REF_0869,12,76.53,0.286,2.27,-156.26,Target Menengah,Tinggi
+ACC_REF_0870,17,52.82,0.297,2.28,-242.87,Target Menengah,Tinggi
+ACC_REF_0871,18,121.62,0.293,2.38,-755.08,Target Menengah,Tinggi
+ACC_REF_0872,11,57.64,0.426,2.64,-91.33,Target Menengah,Tinggi
+ACC_REF_0873,27,107.68,0.365,1.9,-737.39,Target Menengah,Tinggi
+ACC_REF_0874,11,71.95,0.206,3.35,-85.14,Target Menengah,Tinggi
+ACC_REF_0875,10,79.78,0.171,2.42,-339.58,Target Menengah,Tinggi
+ACC_REF_0876,19,89.78,0.429,2.68,-392.97,Target Menengah,Tinggi
+ACC_REF_0877,12,59.62,0.579,2.04,-66.19,Target Menengah,Tinggi
+ACC_REF_0878,18,92.34,0.319,3.04,-455.85,Target Menengah,Tinggi
+ACC_REF_0879,10,167.25,0.318,2.19,-441.61,Target Menengah,Tinggi
+ACC_REF_0880,28,59.19,0.347,2.43,-368.52,Target Menengah,Tinggi
+ACC_REF_0881,21,142.33,0.354,1.94,-868.89,Target Menengah,Tinggi
+ACC_REF_0882,10,164.84,0.303,1.92,-446.66,Target Menengah,Tinggi
+ACC_REF_0883,10,58.18,0.384,2.65,-158.85,Target Menengah,Tinggi
+ACC_REF_0884,31,43.64,0.319,2.11,-400.7,Target Menengah,Tinggi
+ACC_REF_0885,12,96.23,0.222,1.96,-170.55,Target Menengah,Tinggi
+ACC_REF_0886,11,65.66,0.404,2.04,-151.03,Target Menengah,Tinggi
+ACC_REF_0887,10,194.74,0.283,2.66,-440.01,Target Menengah,Tinggi
+ACC_REF_0888,14,85.33,0.341,2.04,-216.6,Target Menengah,Tinggi
+ACC_REF_0889,15,58.55,0.426,2.25,-234.62,Target Menengah,Tinggi
+ACC_REF_0890,21,50.13,0.373,2.31,-324.17,Target Menengah,Tinggi
+ACC_REF_0891,10,137.18,0.456,1.66,-403.6,Target Menengah,Tinggi
+ACC_REF_0892,10,64.96,0.419,1.78,-159.71,Target Menengah,Tinggi
+ACC_REF_0893,19,85.67,0.411,2.46,-538.35,Target Menengah,Tinggi
+ACC_REF_0894,24,129.14,0.312,2.0,-886.48,Target Menengah,Tinggi
+ACC_REF_0895,10,67.55,0.233,2.88,-194.06,Target Menengah,Tinggi
+ACC_REF_0896,25,82.28,0.177,2.82,-156.41,Target Menengah,Tinggi
+ACC_REF_0897,16,83.38,0.376,2.67,-624.22,Target Menengah,Tinggi
+ACC_REF_0898,25,114.24,0.369,3.46,-743.62,Target Menengah,Tinggi
+ACC_REF_0899,16,109.58,0.212,2.26,-189.26,Target Menengah,Tinggi
+ACC_REF_0900,10,76.08,0.295,2.63,-179.74,Target Menengah,Tinggi
+ACC_REF_0901,15,86.44,0.229,2.06,-240.81,Target Menengah,Tinggi
+ACC_REF_0902,24,71.06,0.442,4.07,-405.92,Target Menengah,Tinggi
+ACC_REF_0903,11,43.2,0.298,3.6,-142.27,Target Menengah,Tinggi
+ACC_REF_0904,14,94.32,0.472,2.31,-561.67,Target Menengah,Tinggi
+ACC_REF_0905,15,196.82,0.401,2.49,-677.74,Target Menengah,Tinggi
+ACC_REF_0906,10,56.44,0.155,3.09,-173.86,Target Menengah,Tinggi
+ACC_REF_0907,31,59.32,0.491,2.23,-570.11,Target Menengah,Tinggi
+ACC_REF_0908,11,56.77,0.207,2.03,-178.55,Target Menengah,Tinggi
+ACC_REF_0909,20,116.38,0.374,2.77,-247.68,Target Menengah,Tinggi
+ACC_REF_0910,15,102.78,0.418,2.34,-82.66,Target Menengah,Tinggi
+ACC_REF_0911,26,78.22,0.404,2.39,-464.96,Target Menengah,Tinggi
+ACC_REF_0912,19,55.57,0.212,1.97,-298.99,Target Menengah,Tinggi
+ACC_REF_0913,15,87.57,0.432,1.71,-446.84,Target Menengah,Tinggi
+ACC_REF_0914,11,41.54,0.356,2.41,-95.28,Target Menengah,Tinggi
+ACC_REF_0915,22,89.6,0.298,2.78,-203.76,Target Menengah,Tinggi
+ACC_REF_0916,10,124.34,0.265,2.2,-330.48,Target Menengah,Tinggi
+ACC_REF_0917,21,47.84,0.372,3.15,-438.34,Target Menengah,Tinggi
+ACC_REF_0918,10,42.15,0.384,2.02,-81.09,Target Menengah,Tinggi
+ACC_REF_0919,26,170.98,0.243,1.9,-743.14,Target Menengah,Tinggi
+ACC_REF_0920,17,63.79,0.374,2.27,-404.35,Target Menengah,Tinggi
+ACC_REF_0921,21,140.05,0.42,2.26,-681.97,Target Menengah,Tinggi
+ACC_REF_0922,17,78.38,0.212,2.7,-279.69,Target Menengah,Tinggi
+ACC_REF_0923,10,78.1,0.405,1.99,-196.69,Target Menengah,Tinggi
+ACC_REF_0924,11,102.32,0.428,3.1,-348.08,Target Menengah,Tinggi
+ACC_REF_0925,21,56.43,0.294,3.59,-195.2,Target Menengah,Tinggi
+ACC_REF_0926,17,89.16,0.522,2.28,-421.78,Target Menengah,Tinggi
+ACC_REF_0927,26,70.75,0.482,3.01,-671.08,Target Menengah,Tinggi
+ACC_REF_0928,19,46.37,0.578,1.9,-361.19,Target Menengah,Tinggi
+ACC_REF_0929,11,97.78,0.276,2.89,-156.1,Target Menengah,Tinggi
+ACC_REF_0930,12,74.61,0.247,2.88,-176.08,Target Menengah,Tinggi
+ACC_REF_0931,17,78.27,0.237,2.76,-317.96,Target Menengah,Tinggi
+ACC_REF_0932,10,48.73,0.457,2.29,-137.04,Target Menengah,Tinggi
+ACC_REF_0933,31,171.91,0.461,1.46,-1536.52,Target Menengah,Tinggi
+ACC_REF_0934,19,124.63,0.321,2.04,-786.31,Target Menengah,Tinggi
+ACC_REF_0935,26,129.63,0.265,2.04,-945.45,Target Menengah,Tinggi
+ACC_REF_0936,10,73.21,0.4,1.92,-304.27,Target Menengah,Tinggi
+ACC_REF_0937,26,38.58,0.278,2.36,-305.82,Target Menengah,Tinggi
+ACC_REF_0938,39,202.28,0.152,2.12,-2136.91,Target Menengah,Tinggi
+ACC_REF_0939,10,81.72,0.24,1.97,-161.16,Target Menengah,Tinggi
+ACC_REF_0940,22,59.97,0.211,1.9,-328.77,Target Menengah,Tinggi
+ACC_REF_0941,16,101.33,0.331,2.01,-295.73,Target Menengah,Tinggi
+ACC_REF_0942,10,142.03,0.396,2.92,-196.1,Target Menengah,Tinggi
+ACC_REF_0943,19,83.13,0.282,2.03,-254.84,Target Menengah,Tinggi
+ACC_REF_0944,22,149.33,0.305,2.09,-684.51,Target Menengah,Tinggi
+ACC_REF_0945,13,136.75,0.221,2.11,-435.64,Target Menengah,Tinggi
+ACC_REF_0946,26,51.75,0.491,2.46,-436.57,Target Menengah,Tinggi
+ACC_REF_0947,10,62.03,0.461,2.53,-115.87,Target Menengah,Tinggi
+ACC_REF_0948,10,129.24,0.402,1.45,-144.26,Target Menengah,Tinggi
+ACC_REF_0949,17,24.78,0.394,2.86,-92.1,Target Menengah,Tinggi
+ACC_REF_0950,16,78.54,0.227,3.15,-116.39,Target Menengah,Tinggi
+ACC_REF_0951,12,44.12,0.366,1.9,-194.86,Target Menengah,Tinggi
+ACC_REF_0952,22,67.79,0.367,1.93,-504.58,Target Menengah,Tinggi
+ACC_REF_0953,20,73.43,0.371,2.11,-260.8,Target Menengah,Tinggi
+ACC_REF_0954,23,71.49,0.157,2.0,-369.73,Target Menengah,Tinggi
+ACC_REF_0955,15,65.52,0.263,2.41,-138.47,Target Menengah,Tinggi
+ACC_REF_0956,20,51.27,0.244,1.66,-253.52,Target Menengah,Tinggi
+ACC_REF_0957,13,235.61,0.248,1.88,-966.16,Target Menengah,Tinggi
+ACC_REF_0958,36,194.64,0.518,3.23,-1843.46,Target Menengah,Tinggi
+ACC_REF_0959,12,49.79,0.398,1.94,-220.24,Target Menengah,Tinggi
+ACC_REF_0960,37,171.19,0.312,3.01,-2130.05,Target Menengah,Tinggi
+ACC_REF_0961,16,70.18,0.279,2.47,-188.87,Target Menengah,Tinggi
+ACC_REF_0962,10,89.03,0.246,1.69,-156.85,Target Menengah,Tinggi
+ACC_REF_0963,28,81.64,0.403,2.62,-495.95,Target Menengah,Tinggi
+ACC_REF_0964,17,62.42,0.298,2.25,-407.14,Target Menengah,Tinggi
+ACC_REF_0965,22,130.78,0.576,2.11,-790.28,Target Menengah,Tinggi
+ACC_REF_0966,26,88.9,0.341,2.42,-795.12,Target Menengah,Tinggi
+ACC_REF_0967,18,67.79,0.148,2.53,-185.32,Target Menengah,Tinggi
+ACC_REF_0968,13,46.7,0.32,2.67,-177.7,Target Menengah,Tinggi
+ACC_REF_0969,24,56.19,0.292,2.96,-448.88,Target Menengah,Tinggi
+ACC_REF_0970,16,40.13,0.304,2.5,-156.42,Target Menengah,Tinggi
+ACC_REF_0971,21,84.46,0.503,1.8,-527.15,Target Menengah,Tinggi
+ACC_REF_0972,10,49.02,0.395,2.1,-62.4,Target Menengah,Tinggi
+ACC_REF_0973,19,74.54,0.372,4.64,-431.65,Target Menengah,Tinggi
+ACC_REF_0974,12,155.61,0.346,2.68,-668.39,Target Menengah,Tinggi
+ACC_REF_0975,31,144.1,0.281,3.98,-1868.29,Target Menengah,Tinggi
+ACC_REF_0976,21,82.79,0.422,3.12,-431.98,Target Menengah,Tinggi
+ACC_REF_0977,18,80.77,0.28,2.41,-423.01,Target Menengah,Tinggi
+ACC_REF_0978,19,195.73,0.418,2.44,-1339.95,Target Menengah,Tinggi
+ACC_REF_0979,11,106.18,0.245,2.28,-176.2,Target Menengah,Tinggi
+ACC_REF_0980,31,72.48,0.379,1.71,-432.79,Target Menengah,Tinggi
+ACC_REF_0981,35,44.22,0.248,2.31,-384.23,Target Menengah,Tinggi
+ACC_REF_0982,19,100.29,0.41,2.99,-260.78,Target Menengah,Tinggi
+ACC_REF_0983,30,122.0,0.458,2.05,-706.37,Target Menengah,Tinggi
+ACC_REF_0984,13,63.22,0.331,2.5,-256.28,Target Menengah,Tinggi
+ACC_REF_0985,12,95.76,0.377,2.75,-378.22,Target Menengah,Tinggi
+ACC_REF_0986,16,71.32,0.445,1.95,-206.04,Target Menengah,Tinggi
+ACC_REF_0987,19,77.32,0.433,2.11,-314.81,Target Menengah,Tinggi
+ACC_REF_0988,14,27.42,0.265,1.91,-89.22,Target Menengah,Tinggi
+ACC_REF_0989,20,76.02,0.306,1.97,-476.98,Target Menengah,Tinggi
+ACC_REF_0990,18,129.93,0.478,1.83,-461.58,Target Menengah,Tinggi
+ACC_REF_0991,11,63.22,0.315,1.95,-213.1,Target Menengah,Tinggi
+ACC_REF_0992,20,86.01,0.378,3.14,-437.2,Target Menengah,Tinggi
+ACC_REF_0993,23,59.78,0.298,1.94,-179.08,Target Menengah,Tinggi
+ACC_REF_0994,17,98.79,0.456,2.36,-501.93,Target Menengah,Tinggi
+ACC_REF_0995,25,76.2,0.286,2.09,-708.35,Target Menengah,Tinggi
+ACC_REF_0996,10,55.05,0.171,2.96,-181.78,Target Menengah,Tinggi
+ACC_REF_0997,19,153.0,0.53,3.06,-483.89,Target Menengah,Tinggi
+ACC_REF_0998,10,127.59,0.315,2.76,-287.87,Target Menengah,Tinggi
+ACC_REF_0999,10,63.98,0.35,2.45,-163.99,Target Menengah,Tinggi
+ACC_REF_1000,12,105.09,0.186,2.2,-361.59,Target Menengah,Tinggi
+ACC_REF_1001,11,106.98,0.242,1.86,-243.79,Target Menengah,Tinggi
+ACC_REF_1002,13,112.15,0.487,3.57,-457.69,Target Menengah,Tinggi
+ACC_REF_1003,41,123.15,0.095,10.97,-865.77,Target Cashout Tinggi,Tinggi
+ACC_REF_1004,27,190.2,0.132,5.66,-1273.67,Target Cashout Tinggi,Tinggi
+ACC_REF_1005,25,143.14,0.103,6.52,-593.14,Target Cashout Tinggi,Tinggi
+ACC_REF_1006,28,76.87,0.182,10.08,-643.61,Target Cashout Tinggi,Tinggi
+ACC_REF_1007,31,180.14,0.181,11.01,-1521.36,Target Cashout Tinggi,Tinggi
+ACC_REF_1008,35,92.63,0.137,11.08,-1276.78,Target Cashout Tinggi,Tinggi
+ACC_REF_1009,40,60.79,0.195,7.11,-824.11,Target Cashout Tinggi,Tinggi
+ACC_REF_1010,10,98.1,0.098,6.72,-86.71,Target Cashout Tinggi,Tinggi
+ACC_REF_1011,26,202.47,0.14,7.74,-535.3,Target Cashout Tinggi,Tinggi
+ACC_REF_1012,31,114.18,0.089,9.76,-806.09,Target Cashout Tinggi,Tinggi
+ACC_REF_1013,66,106.6,0.013,14.54,-703.32,Target Cashout Tinggi,Tinggi
+ACC_REF_1014,23,221.45,0.064,4.93,-1251.98,Target Cashout Tinggi,Tinggi
+ACC_REF_1015,38,55.66,0.165,8.45,-534.0,Target Cashout Tinggi,Tinggi
+ACC_REF_1016,65,59.44,0.178,6.05,-882.75,Target Cashout Tinggi,Tinggi
+ACC_REF_1017,21,51.23,0.366,5.51,-261.42,Target Cashout Tinggi,Tinggi
+ACC_REF_1018,42,125.35,0.089,12.29,-1317.31,Target Cashout Tinggi,Tinggi
+ACC_REF_1019,26,114.25,0.063,10.74,-420.41,Target Cashout Tinggi,Tinggi
+ACC_REF_1020,29,212.23,0.128,10.42,-1360.12,Target Cashout Tinggi,Tinggi
+ACC_REF_1021,26,118.27,0.178,12.11,-541.21,Target Cashout Tinggi,Tinggi
+ACC_REF_1022,27,88.37,0.081,7.81,-359.07,Target Cashout Tinggi,Tinggi
+ACC_REF_1023,107,106.09,0.042,7.92,-2292.41,Target Cashout Tinggi,Tinggi
+ACC_REF_1024,50,111.77,0.065,18.3,-1735.91,Target Cashout Tinggi,Tinggi
+ACC_REF_1025,56,49.96,0.194,8.38,-954.68,Target Cashout Tinggi,Tinggi
+ACC_REF_1026,44,358.92,0.143,11.41,-3491.68,Target Cashout Tinggi,Tinggi
+ACC_REF_1027,19,133.94,0.137,9.07,-627.82,Target Cashout Tinggi,Tinggi
+ACC_REF_1028,42,116.51,0.109,5.22,-1105.96,Target Cashout Tinggi,Tinggi
+ACC_REF_1029,55,139.81,0.124,4.94,-1801.54,Target Cashout Tinggi,Tinggi
+ACC_REF_1030,26,145.86,0.082,7.57,-99.79,Target Cashout Tinggi,Tinggi
+ACC_REF_1031,53,99.5,0.185,12.65,-1789.92,Target Cashout Tinggi,Tinggi
+ACC_REF_1032,48,79.79,0.049,11.61,-1502.08,Target Cashout Tinggi,Tinggi
+ACC_REF_1033,76,138.82,0.077,12.09,-2177.69,Target Cashout Tinggi,Tinggi
+ACC_REF_1034,30,126.09,0.2,6.7,-995.28,Target Cashout Tinggi,Tinggi
+ACC_REF_1035,23,73.63,0.093,15.17,-351.76,Target Cashout Tinggi,Tinggi
+ACC_REF_1036,31,200.74,0.018,6.74,-1159.27,Target Cashout Tinggi,Tinggi
+ACC_REF_1037,64,120.96,0.034,9.67,-1008.49,Target Cashout Tinggi,Tinggi
+ACC_REF_1038,17,147.21,0.05,9.02,-884.85,Target Cashout Tinggi,Tinggi
+ACC_REF_1039,16,198.3,0.183,8.57,-880.57,Target Cashout Tinggi,Tinggi
+ACC_REF_1040,37,107.05,0.046,13.86,-787.02,Target Cashout Tinggi,Tinggi
+ACC_REF_1041,30,122.25,0.15,7.29,-628.47,Target Cashout Tinggi,Tinggi
+ACC_REF_1042,36,152.62,0.161,6.02,-316.06,Target Cashout Tinggi,Tinggi
+ACC_REF_1043,53,76.5,0.146,9.11,-634.71,Target Cashout Tinggi,Tinggi
+ACC_REF_1044,29,108.61,0.074,8.0,-748.19,Target Cashout Tinggi,Tinggi
+ACC_REF_1045,17,112.16,0.216,27.25,-580.09,Target Cashout Tinggi,Tinggi
+ACC_REF_1046,82,68.94,0.222,11.2,-1572.37,Target Cashout Tinggi,Tinggi
+ACC_REF_1047,24,300.78,0.127,7.98,-2024.25,Target Cashout Tinggi,Tinggi
+ACC_REF_1048,24,56.27,0.065,6.56,-243.87,Target Cashout Tinggi,Tinggi
+ACC_REF_1049,56,59.1,0.086,5.17,-703.09,Target Cashout Tinggi,Tinggi
+ACC_REF_1050,31,191.49,0.089,6.62,-2011.73,Target Cashout Tinggi,Tinggi
+ACC_REF_1051,35,146.12,0.171,9.38,-1369.95,Target Cashout Tinggi,Tinggi
+ACC_REF_1052,44,66.8,0.136,14.27,-478.49,Target Cashout Tinggi,Tinggi
+ACC_REF_1053,56,139.31,0.217,12.92,-1598.24,Target Cashout Tinggi,Tinggi
+ACC_REF_1054,32,205.2,0.059,9.72,-1231.26,Target Cashout Tinggi,Tinggi
+ACC_REF_1055,66,104.57,0.177,8.19,-1396.66,Target Cashout Tinggi,Tinggi
+ACC_REF_1056,15,341.35,0.141,9.84,-526.8,Target Cashout Tinggi,Tinggi
+ACC_REF_1057,49,48.79,0.201,7.71,-511.89,Target Cashout Tinggi,Tinggi
+ACC_REF_1058,26,144.84,0.091,15.69,-993.74,Target Cashout Tinggi,Tinggi
+ACC_REF_1059,62,179.18,0.124,8.53,-3402.3,Target Cashout Tinggi,Tinggi
+ACC_REF_1060,38,158.31,0.102,8.81,-1281.55,Target Cashout Tinggi,Tinggi
+ACC_REF_1061,28,96.69,0.249,4.71,-1159.43,Target Cashout Tinggi,Tinggi
+ACC_REF_1062,47,93.01,0.051,8.52,-1083.0,Target Cashout Tinggi,Tinggi
+ACC_REF_1063,51,129.45,0.067,11.79,-1646.97,Target Cashout Tinggi,Tinggi
+ACC_REF_1064,47,153.01,0.079,6.54,-2460.62,Target Cashout Tinggi,Tinggi
+ACC_REF_1065,24,139.01,0.076,7.19,-1025.1,Target Cashout Tinggi,Tinggi
+ACC_REF_1066,30,169.26,0.083,11.62,-854.23,Target Cashout Tinggi,Tinggi
+ACC_REF_1067,36,67.02,0.122,5.8,-517.63,Target Cashout Tinggi,Tinggi
+ACC_REF_1068,35,95.67,0.172,12.66,-752.92,Target Cashout Tinggi,Tinggi
+ACC_REF_1069,49,69.44,0.06,7.68,-709.41,Target Cashout Tinggi,Tinggi
+ACC_REF_1070,16,89.09,0.115,8.03,-321.56,Target Cashout Tinggi,Tinggi
+ACC_REF_1071,41,167.38,0.143,6.43,-916.64,Target Cashout Tinggi,Tinggi
+ACC_REF_1072,32,111.28,0.172,10.19,-794.54,Target Cashout Tinggi,Tinggi
+ACC_REF_1073,26,342.59,0.043,20.04,-3114.51,Target Cashout Tinggi,Tinggi
+ACC_REF_1074,27,115.64,0.182,11.58,-320.31,Target Cashout Tinggi,Tinggi
+ACC_REF_1075,33,108.89,0.142,6.95,-730.79,Target Cashout Tinggi,Tinggi
+ACC_REF_1076,10,111.19,0.11,12.98,-311.49,Target Cashout Tinggi,Tinggi
+ACC_REF_1077,27,79.55,0.101,8.21,-715.82,Target Cashout Tinggi,Tinggi
+ACC_REF_1078,25,103.28,0.072,14.02,-519.83,Target Cashout Tinggi,Tinggi
+ACC_REF_1079,45,176.08,0.052,11.68,-1920.47,Target Cashout Tinggi,Tinggi
+ACC_REF_1080,26,111.58,0.176,3.87,-310.61,Target Cashout Tinggi,Tinggi
+ACC_REF_1081,33,74.17,0.061,6.66,-638.02,Target Cashout Tinggi,Tinggi
+ACC_REF_1082,67,69.91,0.083,12.2,-1405.15,Target Cashout Tinggi,Tinggi
+ACC_REF_1083,54,86.56,0.174,9.49,-754.12,Target Cashout Tinggi,Tinggi
+ACC_REF_1084,52,109.58,0.028,6.63,-905.88,Target Cashout Tinggi,Tinggi
+ACC_REF_1085,29,181.37,0.103,7.45,-1154.55,Target Cashout Tinggi,Tinggi
+ACC_REF_1086,45,57.99,0.11,5.13,-466.83,Target Cashout Tinggi,Tinggi
+ACC_REF_1087,33,91.79,0.115,8.8,-714.91,Target Cashout Tinggi,Tinggi
+ACC_REF_1088,33,113.11,0.082,18.45,-799.87,Target Cashout Tinggi,Tinggi
+ACC_REF_1089,42,46.45,0.116,11.67,-272.74,Target Cashout Tinggi,Tinggi
+ACC_REF_1090,28,72.84,0.158,18.33,-373.18,Target Cashout Tinggi,Tinggi
+ACC_REF_1091,65,78.06,0.226,11.96,-1250.93,Target Cashout Tinggi,Tinggi
+ACC_REF_1092,34,74.09,0.101,12.53,-314.41,Target Cashout Tinggi,Tinggi
+ACC_REF_1093,46,115.56,0.107,17.06,-2244.25,Target Cashout Tinggi,Tinggi
+ACC_REF_1094,64,98.61,0.07,10.19,-434.41,Target Cashout Tinggi,Tinggi
+ACC_REF_1095,54,82.56,0.108,8.54,-1647.22,Target Cashout Tinggi,Tinggi
+ACC_REF_1096,20,128.51,0.208,12.55,-727.8,Target Cashout Tinggi,Tinggi
+ACC_REF_1097,43,230.17,0.164,14.39,-2338.47,Target Cashout Tinggi,Tinggi
+ACC_REF_1098,51,221.65,0.136,7.81,-2766.33,Target Cashout Tinggi,Tinggi
+ACC_REF_1099,51,44.62,0.173,7.25,-347.0,Target Cashout Tinggi,Tinggi
+ACC_REF_1100,23,137.43,0.103,9.45,-1003.98,Target Cashout Tinggi,Tinggi
+ACC_REF_1101,28,97.84,0.024,11.77,-581.16,Target Cashout Tinggi,Tinggi
+ACC_REF_1102,54,113.67,0.089,11.64,-1714.13,Target Cashout Tinggi,Tinggi
+ACC_REF_1103,27,88.61,0.171,5.89,-500.96,Target Cashout Tinggi,Tinggi
+ACC_REF_1104,32,111.76,0.082,16.72,-851.81,Target Cashout Tinggi,Tinggi
+ACC_REF_1105,68,113.47,0.191,7.43,-1740.45,Target Cashout Tinggi,Tinggi
+ACC_REF_1106,35,81.69,0.127,8.34,-791.97,Target Cashout Tinggi,Tinggi
+ACC_REF_1107,27,70.82,0.15,6.87,-523.55,Target Cashout Tinggi,Tinggi
+ACC_REF_1108,25,86.62,0.184,21.7,-454.79,Target Cashout Tinggi,Tinggi
+ACC_REF_1109,41,117.78,0.114,9.76,-760.58,Target Cashout Tinggi,Tinggi
+ACC_REF_1110,21,138.79,0.293,6.98,-818.6,Target Cashout Tinggi,Tinggi
+ACC_REF_1111,33,155.62,0.115,11.89,-1553.48,Target Cashout Tinggi,Tinggi
